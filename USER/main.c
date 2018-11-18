@@ -59,6 +59,8 @@ int main(void)
 		
 		delay_ms(300);
 		
+		
+		// just for test git 
 //		HAL_UART_Transmit(&uart1_handler, buff, sizeof(buff1), 1000 );
 //		
 //		delay_ms(300);
