@@ -1,0 +1,2 @@
+The next step is to setting a branch that named UART transmitting string data.
+
